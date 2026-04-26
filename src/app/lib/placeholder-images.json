@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-dog",
+      "description": "A confused white dog looking up, perfectly capturing the communication gap.",
+      "imageUrl": "https://i.imgur.com/YaIbBO1.png",
+      "imageHint": "confused dog"
+    },
+    {
+      "id": "main-logo",
+      "description": "Pet Care Institute Official Logo",
+      "imageUrl": "https://i.imgur.com/JSioAxk.png",
+      "imageHint": "logo"
+    },
+    {
+      "id": "pain-point-barking",
+      "description": "Dog barking aggressively",
+      "imageUrl": "https://picsum.photos/seed/dog-barking/400/300",
+      "imageHint": "barking dog"
+    }
+  ]
+}
